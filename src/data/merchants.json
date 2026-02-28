@@ -487,6 +487,14 @@
     "subType": "services"
   },
   {
+    "name": "Dinero sin reglas",
+    "url": "https://dinerosinreglas.com",
+    "description": "A blog in Spanish that offers educational articles for beginners and anyone interested in learning about Bitcoin. Accepted donations through its own BTCPay Server.",
+    "type": "merchants",
+    "subType": "education",
+    "twitter": "@decentralized_b"
+  },
+  {
     "name": "DIYnodes.com",
     "url": "https://diynodes.com/",
     "description": "Custom built BTC nodes. Accepts BTC via BTCPay Server at checkout.",
