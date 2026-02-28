@@ -311,6 +311,14 @@
     "subType": "cryptocurrency-paraphernalia"
   },
   {
+    "name": "Cajero",
+    "url": "https://cajero.pe",
+    "description": "Facilitamos el acceso a pagos con bitcoin (BTC) a traves de soluciones sobre BTCPay Server.",
+    "type": "hosted-btcpay",
+    "country": "PE",
+    "twitter": "@CajeroBitcoin"
+  },
+  {
     "name": "CheapAir.com",
     "url": "https://www.cheapair.com/",
     "description": "Cheapair is a travel agency launched in 1989. They’re the first in their industry to accept Bitcoin. Company offers affordable airline tickets for flights around the globe.",
